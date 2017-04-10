@@ -1,0 +1,6 @@
+[
+  {
+    "files": "**/*.md",
+    "command": "pandoc -o PDFs/design.pdf  ${srcFile} --latex-engine=xelatex" 
+  }
+]
