@@ -18,9 +18,16 @@ header-includes:
 \headwidth=\textheight
 
 \begingroup
+\fancypagestyle{peculiar}{% use whatever name you please
+  \fancyhf{}% clear
+  \fancyfoot[R]{\thepage}
+}
 \includegraphics[width=20cm]{C-IDM}
+\pagebreak
 \includegraphics[width=20cm]{L-IDM}
+\pagebreak
 \includegraphics[width=20cm]{P-IDM}
+\pagebreak
 \endgroup
 
 \newpage
