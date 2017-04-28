@@ -3,7 +3,7 @@ header-includes:
   - \usepackage[T1]{fontenc}
   - \usepackage{fancyhdr}
   - \usepackage{pdflscape}
-  - \graphicspath{ {Design/resources/diagrams/} }
+  - \graphicspath{ {Design/resources/diagrams/} {Design/resources/mockups/} }
 ---
 \pagestyle{fancy}
 \fancyhf{}
@@ -18,16 +18,14 @@ header-includes:
 \headwidth=\textheight
 
 \begingroup
-\fancypagestyle{peculiar}{% use whatever name you please
-  \fancyhf{}% clear
-  \fancyfoot[R]{\thepage}
-}
+\large \textbf{C-IDM}
 \includegraphics[width=20cm]{C-IDM}
 \pagebreak
+\large \textbf{L-IDM}
 \includegraphics[width=20cm]{L-IDM}
 \pagebreak
+\large \textbf{P-IDM}
 \includegraphics[width=20cm]{P-IDM}
-\pagebreak
 \endgroup
 
 \newpage
@@ -36,13 +34,6 @@ header-includes:
 \pdfpageheight=\paperheight
 \pdfpagewidth=\paperwidth
 \headwidth=\textwidth
-
-
-
-## Bla bla bla
-
-"sOn the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
-
 
 ## Scenarios
 
@@ -79,3 +70,14 @@ header-includes:
             - Discover new locations
 
 **Actions** : In the homepage of the website, the users sees a "Locations" button on the menu bar. After clicking, a map and list of all locations are displayed. The user can go and browse the services offered by each locations. Claire discovers that a location is very close to her mother and they are offering "Therapeutic nutrition". She recommend it to her mother as she thinks it can be beneficial to her.
+
+\pagebreak
+
+## Wireframes
+
+\includegraphics[width=\textwidth]{home-page}
+\includegraphics[width=\textwidth]{doctors}
+\includegraphics[width=\textwidth]{departments}
+\includegraphics[width=\textwidth]{locations}
+\includegraphics[width=\textwidth]{reservation}
+\includegraphics[width=\textwidth]{services}
