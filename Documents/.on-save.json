@@ -1,6 +1,10 @@
 [
   {
-    "files": "**/*.md",
-    "command": "pandoc -o PDFs/design.pdf  ${srcFile} --latex-engine=xelatex" 
+    "files": "Usability/*.+(md|tex)",
+    "command": "pandoc -o PDFs/usability.pdf  Usability/usability-document.md --latex-engine=xelatex"
+  },
+  {
+    "files": "Design/*.+(md|tex)",
+    "command": "pandoc -o PDFs/design.pdf  Design/design-document.md --latex-engine=xelatex"
   }
 ]
