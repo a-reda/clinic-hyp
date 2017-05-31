@@ -6,5 +6,9 @@
   {
     "files": "Design/*.+(md|tex)",
     "command": "pandoc -o PDFs/design.pdf  Design/design-document.md --latex-engine=xelatex"
+  },
+  {
+    "files": "Wireframes/*.+(md|tex)",
+    "command": "pandoc -o PDFs/wireframes.pdf  Wireframes/wireframes-document.md --latex-engine=xelatex"
   }
 ]
