@@ -103,3 +103,13 @@ COMMENT
 \includegraphics[width=\textwidth]{services}
 COMMENT
 \pagebreak
+
+### News
+\includegraphics[width=\textwidth]{news}
+COMMENT
+\pagebreak
+
+### FAQ
+\includegraphics[width=\textwidth]{faq}
+COMMENT
+\pagebreak
