@@ -13,40 +13,35 @@ header-includes:
 
 ### Home Page
 \includegraphics[width=\textwidth]{home-page}
-FAKE COMMENT: In the homepage of the website, the users sees a "Locations" button on the menu bar. After clicking, a map and list of all locations are displayed. The user can go and browse the services offered by each locations. Claire discovers that a location is very close to her mother and they are offering "Therapeutic nutrition". She recommend it to her mother as she thinks it can be beneficial to her.
 \pagebreak
 
 ### Doctors
 \includegraphics[width=\textwidth]{doctors}
-COMMENT
 \pagebreak
 
 ### Departments
 \includegraphics[width=\textwidth]{departments}
-COMMENT
 \pagebreak
 
 ### Locations
 \includegraphics[width=\textwidth]{locations}
-COMMENT
 \pagebreak
 
 ### Reservation form
 \includegraphics[width=\textwidth]{reservation}
-COMMENT
+
+This page is used to create a reservation, the user needs to input his data and the reservation is created.
+
 \pagebreak
 
 ### Services
 \includegraphics[width=\textwidth]{services}
-COMMENT
 \pagebreak
 
 ### News
 \includegraphics[width=\textwidth]{news}
-COMMENT
 \pagebreak
 
 ### FAQ
 \includegraphics[width=\textwidth]{faq}
-COMMENT
 \pagebreak
