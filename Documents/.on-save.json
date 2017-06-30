@@ -10,5 +10,9 @@
   {
     "files": "Wireframes/*.+(md|tex)",
     "command": "pandoc -o PDFs/wireframes.pdf  Wireframes/wireframes-document.md --latex-engine=xelatex"
+  },
+  {
+    "files": "RESTDocumentation/*.+(md|tex)",
+    "command": "pandoc -V geometry:margin=1in -o PDFs/REST-Documentation.pdf  RESTDocumentation/rest-documentation.md --latex-engine=xelatex"
   }
 ]
