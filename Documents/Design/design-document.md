@@ -111,5 +111,6 @@ This page is used to create a reservation, the user needs to input his data and 
 
 ## Interactive mock-up
 
-We used Axure RP 8.0 to design our website. Considering the conpatibility problem of different version of the app and also it might be a little bit bothering to download the app to check the project, we generated our project(.rp file) as html file for convenience. By opening start.html to start check out our mock-up.    
+We used Axure RP 8.0 to design our website. Considering the conpatibility problem of different version of the app and also it might be a little bit bothering to download the app to check the project, we generated our project(.rp file) as html file for convenience. By opening start.html to start check out our mock-up.   
+
 In case there is a problem to check the mock-up via previous way or you want to check the source file, please download the Axure latest version, check here https://www.axure.com/. After installing the app then open the .rp file in 'File' section then click preview which is at right top of menu bar. Besides also zooming the browser in a suitable viewing size in case of the mock-up is presented in a over size.
