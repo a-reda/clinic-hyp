@@ -108,3 +108,8 @@ This page is used to create a reservation, the user needs to input his data and 
 ### FAQ
 \includegraphics[width=\textwidth]{faq}
 \pagebreak
+
+## Interactive mock-up
+
+We used Axure RP 8.0 to design our website. In order to properly present the mock-up, please download the Axure latest version, check here https://www.axure.com/. After installing the app then open the .rp file in 'File' section then click preview which is at right top of menu bar. Besides also zooming the browser in a suitable viewing size in case of the mock-up is presented in a over size.
+  
