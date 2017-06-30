@@ -1,7 +1,7 @@
 [
   {
     "files": "Usability/*.+(md|tex)",
-    "command": "pandoc -o PDFs/usability.pdf  Usability/usability-document.md --latex-engine=xelatex"
+    "command": "pandoc -o Usability/usability-cover.pdf  Usability/usability-document.md --latex-engine=xelatex"
   },
   {
     "files": "Design/*.+(md|tex)",
