@@ -82,12 +82,20 @@ header-includes:
 \includegraphics[width=\textwidth]{doctors}
 \pagebreak
 
+### Single doctor
+\includegraphics[width=\textwidth]{single-doctor}
+\pagebreak
+
 ### Departments
 \includegraphics[width=\textwidth]{departments}
 \pagebreak
 
 ### Locations
 \includegraphics[width=\textwidth]{locations}
+\pagebreak
+
+### Single location
+\includegraphics[width=\textwidth]{single-location}
 \pagebreak
 
 ### Reservation form
@@ -99,6 +107,10 @@ This page is used to create a reservation, the user needs to input his data and 
 
 ### Services
 \includegraphics[width=\textwidth]{services}
+\pagebreak
+
+### Single service
+\includegraphics[width=\textwidth]{single-service}
 \pagebreak
 
 ### News
