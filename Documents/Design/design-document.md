@@ -46,18 +46,18 @@ header-includes:
 **Goals** :
           - Check if the service is offered
 
-**Actions** :  The user is on the homepage of the website. Since he doesn't know anything about the clinic, he first click on "Departments" on the menu bar to see the departments. After going through the departments, he finds the "General surgery" department. From there, he clicks on "Services offered" to check if the specific surgery he needs is offered. The website displays all the services offered by the General Surgery department. He can then click on the surgery he wants to learn more information.
+**Actions** :  The user is on the homepage of the website. Since he doesn't know anything about the clinic, he first click on "Departments" on the menu bar to see the departments. After going through the departments, he finds the "Diagnostic imaging" department and read the description at the right text blok. And in the page all services in the department are displayed in "service offered area". From there, he clicks on "CT Scanning" to check if it is the specific service that he needs. After reading the service dscription he finds that it is the exactly one that he needs then he selects a doctor and clicks "view" in doctor list where lists doctors operating the service. Then the new page displays the doctors basic information.
 
 ### Scenario 2
 
 **User** : Erick, usual client
 
-**Situation** : Headache, is looking for Dr.Louis Hall
+**Situation** : Headache, is looking for Dr.August Collett
 
 **Goals** :
             - To check if the doctor still works here and to make a reservation
 
-**Actions** : Erick is on the home page and he goes by clicking the bottom “Doctors” on the menu onto the page of doctors and there will be displayed doctors in alphabetical order. He can easily then find the doctor and browse all his information. To make an appointment, he has to click “Practical info” on the menu bar and then go to “Make a reservation” the to fill out the form. The client is asked for his name, e-mail and preferred date when the client would like to visit.
+**Actions** : Erick is on the home page and he goes by clicking the bottom “Doctors” on the menu onto the page of doctors and there will be displayed doctors in alphabetical order. He can easily then find the doctor and browse all his information. Just to make sure the doctor is still operating the same service as before then he clicks on "the service name" which is in the information table. Finally, to make an appointment, he has to click “Reservation” on the menu bar and then go to a page the to fill out the form. The client is asked for his name, e-mail and preferred date when the client would like to visit. After all that he will get the reservation E-mail.
 
 ### Scenario 3  
 
@@ -69,7 +69,7 @@ header-includes:
             - Find other services offered by the clinic
             - Discover new locations
 
-**Actions** : In the homepage of the website, the users sees a "Locations" button on the menu bar. After clicking, a map and list of all locations are displayed. The user can go and browse the services offered by each locations. Claire discovers that a location is very close to her mother and they are offering "Therapeutic nutrition". She recommend it to her mother as she thinks it can be beneficial to her.
+**Actions** : In the homepage of the website, the users sees a "Locations" button on the menu bar. After clicking, a map and list of all locations are displayed. The user can go and browse the services offered by each locations via clicking "read more". Claire discovers that a location is very close to her mother and they are offering "CT Scanning". She recommend it to her mother as she thinks it can be beneficial to her.
 
 \pagebreak
 
